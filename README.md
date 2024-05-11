@@ -1,7 +1,6 @@
 # Chinese-Landscape-Painting-Dataset
 
 Chinese-Landscape-Painting-Dataset
-论文：LMGAN: A Progressive End-to-End Chinese Landscape Painting Generation Model
 
 提供原始未处理的数据。
 
